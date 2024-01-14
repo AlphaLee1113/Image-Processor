@@ -1,3 +1,8 @@
+To run the website, you can first goto "Window Powershell" (local at the left corner of the folder), 
+and type "py -m http.server 80" then you can go back the browser and type "localhost" and click "XXX.html"
+
+
+
 The webpage will be as follow:
 ![webpage](https://github.com/AlphaLee1113/Image-Processor/assets/113546167/b584416d-6dc9-4b43-9560-f0b2c4ee3ef0)
 
